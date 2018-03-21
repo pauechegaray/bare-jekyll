@@ -30,3 +30,6 @@ permalink: pretty
 kramdown:
   # instruct kramdown to parse inside html block elements like p, header, lists, ...
   parse_block_html: true
+
+plugins:
+  - jemoji
